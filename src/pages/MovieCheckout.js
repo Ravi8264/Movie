@@ -48,7 +48,7 @@ export default function MovieCheckout() {
                 <div className="col-lg-8">
                 <div className="checkout-widget d-flex flex-wrap align-items-center justify-cotent-between">
                     <div className="title-area">
-                    <h5 className="title">Already a Boleto  Member?</h5>
+                    <h5 className="title">Already a Go Movie  Member?</h5>
                     <p>Sign in to earn points and make booking easier!</p>
                     </div>
                     <a href="#0" className="sign-in-area">
@@ -130,7 +130,7 @@ export default function MovieCheckout() {
                         <input id="card5" type="checkbox" defaultChecked />
                         <label htmlFor="card5">
                         <span className="title">QuickPay</span>
-                        <span className="info">Save this card information to my Boleto  account and make faster payments.</span>
+                        <span className="info">Save this card information to my Go Movie  account and make faster payments.</span>
                         </label>
                     </div>
                     <div className="form-group">

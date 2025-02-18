@@ -7,7 +7,7 @@ export default function Footer() {
             <div className="container">
                 <div className="newslater-container bg_img" data-background="assets/images/newslater/newslater-bg01.jpg">
                 <div className="newslater-wrapper">
-                    <h5 className="cate">subscribe to Boleto </h5>
+                    <h5 className="cate">subscribe to Go Movie </h5>
                     <h3 className="title">to get exclusive benifits</h3>
                     <form className="newslater-form">
                     <input type="text" placeholder="Your Email Address" />
@@ -56,7 +56,7 @@ export default function Footer() {
             <div className="footer-bottom">
                 <div className="footer-bottom-area">
                 <div className="left">
-                    <p>Copyright © 2020.All Rights Reserved By <a href="#0">Boleto </a></p>
+                    <p>Copyright © 2020.All Rights Reserved By <a href="#0">Go Movie </a></p>
                 </div>
                 <ul className="links">
                     <li>

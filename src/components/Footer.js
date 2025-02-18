@@ -22,7 +22,7 @@ export default function Footer() {
             <div className="footer-top">
                 <div className="logo">
                 <a href="index-1.html">
-                    <img src="assets/images/footer/footer-logo.png" alt="footer" />
+                    <img width={"200px"} src="assets/images/footer/footer-logo.png" alt="footer" />
                 </a>
                 </div>
                 <ul className="social-icons">

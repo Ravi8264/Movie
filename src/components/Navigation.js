@@ -60,9 +60,9 @@ export default function Navigation() {
                     <li>
                         <a href="/sign-up">Sign Up</a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a href="/404">404</a>
-                    </li>
+                    </li> */}
                     </ul>
                 </li>
                 

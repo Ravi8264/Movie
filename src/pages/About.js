@@ -103,7 +103,7 @@ export default function About() {
                         <img src="assets/images/about/about-counter01.png" alt="about" />
                     </div>
                     <div className="counter-content">
-                        <h3 className="title odometer" data-odometer-final={30} />
+                        <h3 className="title odometer" data-odometer-final={30} ></h3>
                         <h3 className="title">M+</h3>
                     </div>
                     <span className="d-block info">Customers</span>
@@ -113,7 +113,7 @@ export default function About() {
                         <img src="assets/images/about/about-counter02.png" alt="about" />
                     </div>
                     <div className="counter-content">
-                        <h3 className="title odometer" data-odometer-final={11} />
+                        <h3 className="title odometer" data-odometer-final={11} ></h3>
                     </div>
                     <span className="d-block info">Contries</span>
                     </div>
@@ -122,7 +122,7 @@ export default function About() {
                         <img src="assets/images/about/about-counter03.png" alt="about" />
                     </div>
                     <div className="counter-content">
-                        <h3 className="title odometer" data-odometer-final={650} />
+                        <h3 className="title odometer" data-odometer-final={650} ></h3>
                         <h3 className="title">+</h3>
                     </div>
                     <span className="d-block info">Towns &amp; Cities</span>
@@ -132,7 +132,7 @@ export default function About() {
                         <img src="assets/images/about/about-counter04.png" alt="about" />
                     </div>
                     <div className="counter-content">
-                        <h3 className="title odometer" data-odometer-final={5000} />
+                        <h3 className="title odometer" data-odometer-final={5000} ></h3>
                         <h3 className="title">+</h3>
                     </div>
                     <span className="d-block info">Screens</span>
